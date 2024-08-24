@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZoYmtkbjY0MGNoOTJxcHVsYXBqZngwcGl5YWgxdjg1MG83c3Q1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" alt="Hello World">
 </p>
 
-<h2>About Me</h2>
+<h1>About Me</h1>
 <p>
     <strong>Suvijak Phuphakdeepan</strong>.<br>
     <strong>Intania 108 ⚙️ CEDT02 🥐</strong>
@@ -22,7 +22,8 @@
 <strong>Now Playing</strong>
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317qpqmsoznkzhf5nxogvdwn55oy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<h2>My Skills</h2>
+
+<h1>My Skills</h1>
 <strong>Fundamental language</strong>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
@@ -31,12 +32,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,java)](https://skillicons.dev)
 
-<h2>My Tools</h2>
+<h1>My Tools</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,arduino)](https://skillicons.dev)
 
 
-<h2>My Stats</h2>
+<h1>My Stats</h1>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=MooncakeXI&show_icons=true&theme=radical" alt="GitHub Stats"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooncakeXI&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
@@ -48,7 +49,7 @@
 </p>
 
 
-<h2>Contact Me</h2>
+<h1>Contact Me</h1>
 <p>
   <a href="https://www.instagram.com/marc_svj/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
