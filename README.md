@@ -57,7 +57,7 @@
   <a href="https://www.facebook.com/profile.php?id=100021752210065" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://discord.com/users/492700650728063004" target="_blank">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
