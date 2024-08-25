@@ -45,7 +45,7 @@
 
 <p>
 
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/suvijak237)](https://leetcode.com/JacobLinCool)
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MooncakeXI)
 </p>
 
 
