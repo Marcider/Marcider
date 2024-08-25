@@ -39,10 +39,11 @@
 
 <h1>My Stats</h1>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MooncakeXI&show_icons=true&theme=radical" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MooncakeXI&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooncakeXI&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
 </p>
 
+<h2>Coding stat</h2>
 <p>
 
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MooncakeXI)
